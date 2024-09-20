@@ -51,7 +51,7 @@ This application uses the ExchangeRate-API. Make sure to replace the placeholder
 
 ## Showcase
 
-To view a picture or video of this project, please visit my [LinkedIn profile](#) where I've shared a demo showcasing its features.
+To view a picture or video of this project, please visit my [LinkedIn profile](https://www.linkedin.com/feed/update/urn:li:activity:7242868855667093506/) where I've shared a demo showcasing its features.
 
 ## Known Issues
 
